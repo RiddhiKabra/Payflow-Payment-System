@@ -2,6 +2,7 @@ Payflow Payment System is a full-stack payment processing platform designed to s
 The backend is built using Java Spring Boot, providing REST APIs for payment processing, authentication, and transaction management. The frontend delivers a responsive user experience for handling payment operations efficiently.
 
 Key features include:
+
 Secure JWT-based authentication and authorization
 Payment initiation and processing
 Transaction history tracking
@@ -11,6 +12,7 @@ Scalable backend architecture using Spring Boot
 The project demonstrates practical implementation of full-stack development concepts, secure API design, and payment workflow management.
 
 Tech Stack -
+
 Backend: Java, Spring Boot, Spring Security, JWT
 Frontend: Angular / Modern Web UI
 Database: MySQL / PostgreSQL
