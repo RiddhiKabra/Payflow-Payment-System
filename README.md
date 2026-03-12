@@ -1,30 +1,44 @@
-Payflow Payment System is a full-stack payment processing platform designed to simulate real-world digital payment workflows. The application allows users to securely initiate payments, manage transactions, and monitor payment history through an intuitive interface.
-The backend is built using Java Spring Boot, providing REST APIs for payment processing, authentication, and transaction management. The frontend delivers a responsive user experience for handling payment operations efficiently.
+# Payflow Payment System
 
-Key features include:
+Payflow Payment System is a full-stack fintech application designed to simulate real-world digital payment workflows. The system allows users to securely initiate payments, manage transactions, and track payment history through a modern web interface and a robust backend API.
 
-Secure JWT-based authentication and authorization
+The project demonstrates practical implementation of secure authentication, payment processing, and scalable backend architecture using modern web technologies.
 
-Payment initiation and processing
+---
 
-Transaction history tracking
+## 🚀 Features
 
-RESTful APIs for payment operations
+- Secure user authentication using JWT
+- Payment initiation and processing
+- Transaction history tracking
+- RESTful APIs for payment operations
+- Modular backend architecture
+- Responsive user interface for payment management
 
-Modern UI for seamless payment management
+---
 
-Scalable backend architecture using Spring Boot
+## 🏗️ Tech Stack
 
-The project demonstrates practical implementation of full-stack development concepts, secure API design, and payment workflow management.
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- Maven / Gradle
 
-Tech Stack -
+### Frontend
+- Angular
+- TypeScript
+- HTML5
+- CSS3
 
-Backend: Java, Spring Boot, Spring Security, JWT
+### Database
+- MySQL / PostgreSQL
 
-Frontend: Angular / Modern Web UI
+### Version Control
+- Git
+- GitHub
 
-Database: MySQL / PostgreSQL
+---
 
-Build Tool: Maven / Gradle
-
-Version Control: Git & GitHub
+## 📂 Project Structure
