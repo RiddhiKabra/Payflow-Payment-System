@@ -1,0 +1,35 @@
+<div class="dashboard-container">
+
+  <h2>Transactions</h2>
+
+  <table>
+
+    <thead>
+    <tr>
+      <th>ID</th>
+      <th>Amount</th>
+      <th>Status</th>
+      <th>Reference</th>
+      <th>Date</th>
+    </tr>
+    </thead>
+
+    <tbody>
+
+    <tr *ngFor="let t of transactions">
+
+      <td>{{t.id}}</td>
+      <td>{{t.amount}}</td>
+      <td>
+        <span class="status">{{t.status}}</span>
+      </td>
+      <td>{{t.referenceId}}</td>
+      <td>{{t.createdAt}}</td>
+
+    </tr>
+
+    </tbody>
+
+  </table>
+
+</div>

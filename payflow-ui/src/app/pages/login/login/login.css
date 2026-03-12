@@ -1,0 +1,60 @@
+/* Full page layout */
+body{
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  background:#f4f6f9;
+}
+
+/* Login card */
+.login-container{
+  width:350px;
+  margin:120px auto;
+  padding:30px;
+  border-radius:10px;
+  box-shadow:0 4px 15px rgba(0,0,0,0.1);
+  background:#ffffff;
+}
+
+/* Title */
+h2{
+  text-align:center;
+  margin-bottom:25px;
+  color:#333;
+}
+
+/* Form spacing */
+.form-group{
+  margin-bottom:18px;
+}
+
+/* Inputs */
+input{
+  width:100%;
+  padding:10px;
+  border:1px solid #ccc;
+  border-radius:6px;
+  font-size:14px;
+  outline:none;
+  transition:border 0.2s ease;
+}
+
+input:focus{
+  border:1px solid #1976d2;
+}
+
+/* Button */
+button{
+  width:100%;
+  padding:10px;
+  background:#1976d2;
+  color:white;
+  border:none;
+  border-radius:6px;
+  cursor:pointer;
+  font-size:15px;
+  transition:background 0.2s ease;
+}
+
+button:hover{
+  background:#1565c0;
+}
