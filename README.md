@@ -38,7 +38,3 @@ The project demonstrates practical implementation of secure authentication, paym
 ### Version Control
 - Git
 - GitHub
-
----
-
-## 📂 Project Structure
